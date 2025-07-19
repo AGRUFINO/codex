@@ -1,5 +1,5 @@
                                  Opendex License
-                           Version 2.0, July 2022
+                           Version 1.0, July 2022
                         http://www.opendex.dev/licenses/
 
 TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
@@ -42,31 +42,13 @@ This License shall be governed by and construed in accordance with the laws of M
 9. CONTACT INFORMATION
 For inquiries regarding this License, contact Opendex Cloud Mexico at legal@opendex.com or address].
 
--[END OF TERMS AND CONDITIONS]
-**How to Apply This License**  
+END OF TERMS AND CONDITIONS
+How to Apply This License
 To apply this License to your Software, attach the following notice to the Software, replacing [insert contact email or address] with your company’s contact information:  
 
-```
+
 Copyright © 2025 Opendex Cloud Mexico. All rights reserved.
 
 This Software is licensed under the Opendex Cloud Mexico Proprietary Software License. 
 Use, reproduction, or distribution of this Software is strictly prohibited except as expressly permitted by the License. 
-Contact Opendex Cloud Mexico at [insert contact email or address] for further information.
-```
-
----
-
-### Key Differences from Apache License 2.0:
-1. **Non-Public and Non-Open-Source**: Unlike the Apache License, which permits broad use, modification, and distribution (including derivative works), this license restricts the software to internal use only by Opendex Cloud Mexico and explicitly prohibits any form of external sharing, modification, or redistribution.
-2. **No Derivative Works**: The Apache License allows derivative works and their distribution under specific conditions; this license prohibits any modification or creation of derivative works.
-3. **No Patent License**: The Apache License includes a patent grant; this license does not, as it is intended to retain full control over the software.
-4. **Strict Termination**: This license terminates immediately upon any breach, with no provisions for contributions or external use, unlike the Apache License’s support for contributions.
-5. **Proprietary Nature**: The license emphasizes that the software is proprietary, with all rights reserved, and does not allow public access or open-source use.
-
-### Notes:
-- **Customization**: Please provide a contact email or address to include in the license. I left Mexico City as the jurisdiction for disputes, but you can specify another city if needed.
-- **Legal Review**: As with any license, consult a lawyer to ensure compliance with Mexican laws (e.g., Ley Federal del Derecho de Autor) and to consider registering the software with INDAUTOR for additional protection.
-- **Format**: The structure mirrors the Apache License for clarity but is tailored to be strictly proprietary, aligning with your request to prevent reuse by others.
-- **Further Adjustments**: If you want to add specific penalties for violations, define authorized affiliates, or include additional restrictions, let me know, and I can refine the license further.
-
-If you need a bilingual version (English and Spanish), a shorter version, or assistance with registering the software in Mexico, please let me know!
+Contact Opendex Cloud Mexico at legal@opendex.com for further information.
